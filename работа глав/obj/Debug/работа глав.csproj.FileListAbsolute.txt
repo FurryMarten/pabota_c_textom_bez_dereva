@@ -1,0 +1,40 @@
+D:\proga\работа глав\работа глав\bin\Debug\работа глав.exe.config
+D:\proga\работа глав\работа глав\bin\Debug\работа глав.exe
+D:\proga\работа глав\работа глав\bin\Debug\работа глав.pdb
+D:\proga\работа глав\работа глав\obj\Debug\работа глав.csprojResolveAssemblyReference.cache
+D:\proga\работа глав\работа глав\obj\Debug\работа_глав.Form1.resources
+D:\proga\работа глав\работа глав\obj\Debug\работа_глав.Properties.Resources.resources
+D:\proga\работа глав\работа глав\obj\Debug\работа глав.csproj.GenerateResource.Cache
+D:\proga\работа глав\работа глав\obj\Debug\работа глав.exe
+D:\proga\работа глав\работа глав\obj\Debug\работа глав.pdb
+F:\УНИВЕР\gn\работа глав\работа глав\bin\Debug\работа глав.exe.config
+F:\УНИВЕР\gn\работа глав\работа глав\bin\Debug\работа глав.exe
+F:\УНИВЕР\gn\работа глав\работа глав\bin\Debug\работа глав.pdb
+F:\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.csprojResolveAssemblyReference.cache
+F:\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа_глав.Form1.resources
+F:\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа_глав.Properties.Resources.resources
+F:\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.csproj.GenerateResource.Cache
+F:\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.csproj.CoreCompileInputs.cache
+F:\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.exe
+F:\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.pdb
+D:\УНИВЕР\gn\работа глав\работа глав\bin\Debug\работа глав.exe.config
+D:\УНИВЕР\gn\работа глав\работа глав\bin\Debug\работа глав.exe
+D:\УНИВЕР\gn\работа глав\работа глав\bin\Debug\работа глав.pdb
+D:\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.csprojResolveAssemblyReference.cache
+D:\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа_глав.Form1.resources
+D:\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа_глав.Properties.Resources.resources
+D:\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.csproj.GenerateResource.Cache
+D:\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.exe
+D:\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.pdb
+C:\Users\ХХХ\Desktop\akti\УНИВЕР\gn\работа глав\работа глав\bin\Debug\работа глав.exe.config
+C:\Users\ХХХ\Desktop\akti\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.exe
+C:\Users\ХХХ\Desktop\akti\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.pdb
+F:\перенос\akti\УНИВЕР\gn\работа глав\работа глав\bin\Debug\работа глав.exe.config
+F:\перенос\akti\УНИВЕР\gn\работа глав\работа глав\bin\Debug\работа глав.exe
+F:\перенос\akti\УНИВЕР\gn\работа глав\работа глав\bin\Debug\работа глав.pdb
+F:\перенос\akti\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.csprojAssemblyReference.cache
+F:\перенос\akti\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа_глав.Form1.resources
+F:\перенос\akti\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа_глав.Properties.Resources.resources
+F:\перенос\akti\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.csproj.GenerateResource.cache
+F:\перенос\akti\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.exe
+F:\перенос\akti\УНИВЕР\gn\работа глав\работа глав\obj\Debug\работа глав.pdb
